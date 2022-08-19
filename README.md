@@ -1,7 +1,5 @@
 [![The Quark banner](https://raw.githubusercontent.com/anafro/anafro/main/Banners/Quark.svg "Quark is still in development. You can't download it yet.")]()
 
-<!--(https://sakurator.anafro.ru/)-->
-
 <h1 align="center">
   <br>
   <a href="https://anafro.ru/quark"><img src="https://raw.githubusercontent.com/anafro/anafro/main/Logos/Quark.svg" alt="Quark Logo" width="200"></a>
@@ -42,7 +40,7 @@ Anafro Quark is a database management system with 3 programs inside: Quark Serve
     <img src="https://raw.githubusercontent.com/anafro/anafro/main/Banners/Quark.Features.png" alt="Markdownify">
 </h2>
 
-Despide the fact that Quark can not be compared with DBMS giants such as MySQL yet, Quark can offer you features that other database management systems don't have.
+Despite the fact that Quark can not be compared with DBMS giants such as MySQL yet, Quark can offer you features that other database management systems don't have.
 
 * Quark has its own query language called Quark QL, which is really similar to Python. You can use useful functions inside your queries, e.g. `@upper('text')` will become to `TEXT`. 
 * Quark QL contains almost 100 instructions, so the flexibility of database management becomes really cool!
