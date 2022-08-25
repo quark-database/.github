@@ -40,7 +40,7 @@ Anafro Quark is a database management system with 3 programs inside: Quark Serve
     <img src="https://raw.githubusercontent.com/anafro/anafro/main/Banners/Quark.Features.png" alt="Markdownify">
 </h2>
 
-Despite the fact that Quark can not be compared with DBMS giants such as MySQL yet, Quark can offer you features that other database management systems don't have.
+Despide the fact that Quark can not be compared with DBMS giants such as MySQL yet, Quark can offer you features that other database management systems don't have.
 
 * Quark has its own query language called Quark QL, which is really similar to Python. You can use useful functions inside your queries, e.g. `@upper('text')` will become to `TEXT`. 
 * Quark QL contains almost 100 instructions, so the flexibility of database management becomes really cool!
@@ -59,6 +59,42 @@ Despite the fact that Quark can not be compared with DBMS giants such as MySQL y
 </h2>
 
 Development of Quark is still ongoing! The scheduled release date of all Quark products is the end of September.
+
+| Quark Feature                           | Progress                            | Comment                                                                        |
+|-----------------------------------------|-------------------------------------|:-------------------------------------------------------------------------------|
+| **Quark Server**                        | ![](https://geps.dev/progress/65)   |                                                                                |
+| ✅ In-server console                    | ![](https://geps.dev/progress/100)  | Additional commands can be added in future                                     |
+| ✅ Instruction lexing                   | ![](https://geps.dev/progress/100)  |                                                                                |
+| ✅ Instruction parsing                  | ![](https://geps.dev/progress/100)  |                                                                                |
+| Plugin API                              | ![](https://geps.dev/progress/45)   | The plugin loading system is ready, but I need to add more events and features |
+| Instruction actions                     | ![](https://geps.dev/progress/4)    |                                                                                |
+| Database management                     | ![](https://geps.dev/progress/6)    |                                                                                |
+| TCP server                              | ![](https://geps.dev/progress/28)   |                                                                                |
+| Access-token system                     | ![](https://geps.dev/progress/10)   |                                                                                |
+| Scheduler                               | ![](https://geps.dev/progress/0)    |                                                                                |
+| **Quark API**                           | ![](https://geps.dev/progress/0)    |                                                                                |
+| TCP-client                              | ![](https://geps.dev/progress/0)    |                                                                                |
+| Classes for database entities           | ![](https://geps.dev/progress/0)    |                                                                                |
+| Building a query lifecycle              | ![](https://geps.dev/progress/0)    |                                                                                |
+| **Quark Console**                       | ![](https://geps.dev/progress/0)    |                                                                                |
+| Query sending                           | ![](https://geps.dev/progress/0)    |                                                                                |
+| Saving favorite servers                 | ![](https://geps.dev/progress/0)    |                                                                                |
+| **Quark Studio**                        | ![](https://geps.dev/progress/0)    |                                                                                |
+| Decide which language to use            | ![](https://geps.dev/progress/0)    |                                                                                |
+| Connecting and disconnecting            | ![](https://geps.dev/progress/0)    |                                                                                |
+| Saving favorite servers                 | ![](https://geps.dev/progress/0)    |                                                                                |
+| Sending queries                         | ![](https://geps.dev/progress/0)    |                                                                                |
+| Running ```.quark``` files              | ![](https://geps.dev/progress/0)    |                                                                                |
+| Changing server settings                | ![](https://geps.dev/progress/0)    |                                                                                |
+| Database tree view                      | ![](https://geps.dev/progress/0)    |                                                                                |
+| Plugin installation                     | ![](https://geps.dev/progress/0)    |                                                                                |
+| Table editing                           | ![](https://geps.dev/progress/0)    |                                                                                |
+| Quark QL highlighting and syntax check  | ![](https://geps.dev/progress/0)    |                                                                                |
+| Quarkus virtual assistance              | ![](https://geps.dev/progress/0)    |                                                                                |
+| **Quark ORM**                           | ![](https://geps.dev/progress/0)    |                                                                                |
+| Class generation                        | ![](https://geps.dev/progress/0)    |                                                                                |
+| Migrations                              | ![](https://geps.dev/progress/0)    |                                                                                |
+| **Quark Installer**                     | ![](https://geps.dev/progress/0)    |                                                                                |
 
 <hr>
 
