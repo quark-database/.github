@@ -39,6 +39,8 @@ Feeling excited? Jump to Quick start section to begin your journey!
 I made a step-by-step guide to Quark. There you will learn how to install Quark,
 make a proper setup, write queries, edit tables via user interface, and much more.
 
+<img src="https://github.com/quark-database/.github/blob/main/Assets/Syntax.png?raw=true" alt="Quark Syntax">
+
 ## Documentation
 Quark delivers a full, descriptive, and robust documentation for our querying
 language, APIs and all the Quark components to make your usage experience
