@@ -31,6 +31,8 @@ Node.js, and Python.
 code on top your queries. Just add column modifiers to make Quark throw error
 if inserting value doesn't match your rules.
 
+<img src="https://github.com/quark-database/.github/blob/main/Assets/Prototype.png?raw=true" alt="Quark Prototype">
+
 Feeling excited? Jump to Quick start section to begin your journey!
 
 ## Quick start
