@@ -1,54 +1,50 @@
 <p align="center">
-  <a href="https://anafro.ru/quark">
-    <img src="https://raw.githubusercontent.com/quark-database/.github/main/Assets/Banner.png" alt="Quark Banner">
-  </a>
+    <a href="https://anafro.ru/quark">
+        <img src="https://raw.githubusercontent.com/quark-database/.github/main/Assets/Banner.png" alt="Quark Banner">
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://github.com/quark-database/server/workflows/Java%20CI%20with%20Maven/badge.svg" alt="Build Status">
+    <img src="https://img.shields.io/github/tag/quark-database/server?include_prereleases=&sort=semver&color=blue" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/License-MIT-blue" alt="License">
+    <img src="https://img.shields.io/github/issues/quark-database/server" alt="issues - server">
 </p>
 
 
-<h2>Anafro Quark</h2>
+## What is Quark?
+Quark is an open-source relational database management system designed
+for applications, backend, and for everyday usage — Quark brings database
+management tools for both developers and non-developers easing database
+tasks:
 
+- **Simple, intuitive querying language**: Quark delivers a querying language with
+Python-like syntax called Quark QL offering tons of instructions for selection,
+deletion, transformation, and editing.
+- **User-friendly table editor**: Quark makes data viewing and editing painless
+via Quark Studio. You don't need any programming experience and experience in
+writing queries.
+- **Robust APIs for all popular programming languages**: Adopt Quark in your next
+project by including Quark API. At this moment we support API for Java, C#, PHP,
+Node.js, and Python.
+- **Data validation inside table columns**: Quark frees you from writing validation
+code on top your queries. Just add column modifiers to make Quark throw error
+if inserting value doesn't match your rules.
 
-<h2 id="what-is-it">What is it?</h2>
-Anafro Quark is a database management system with 3 programs inside: Quark Server, Quark Studio, and Quark Console. Quark uses its own query language - Quark QL.
+Feeling excited? Jump to Quick start section to begin your journey!
 
+## Quick start
+I made a step-by-step guide to Quark. There you will learn how to install Quark,
+make a proper setup, write queries, edit tables via user interface, and much more.
 
-<hr>
+## Documentation
+Quark delivers a full, descriptive, and robust documentation for our querying
+language, APIs and all the Quark components to make your usage experience
+smooth and simple. I filled them with code examples, and explanations.
 
-<h2 id="features">Features</h2>
-<br>
+## Contribution
+I appreciate your interest in Quark, both using and contributing!
+To contribute, I kindly ask to read Quark Contribution Documentation.
 
-<h2 align="center">
-    <img src="https://raw.githubusercontent.com/anafro/anafro/main/Banners/Quark.Features.png" alt="Markdownify">
-</h2>
-
-<hr>
-
-<h2 id="features">Development status</h2>
-<br>
-
-<h2 align="center">
-    <img src="https://raw.githubusercontent.com/anafro/anafro/main/Banners/Quark.Progress.png" alt="Markdownify">
-</h2>
-
-Development of Quark is still ongoing! The scheduled release date of all Quark products is the end of September.
-
-<hr>
-
-<h2 id="as-portfolio">Quark as a Portfolio Project</h2>
-<br>
-
-You _~~can~~_ will be able to check out all the repositories of Quark programs above.
-
-<hr>
-
-<h2 id="documentation">Documentation</h2>
-<br>
-
-Documentation of Quark QL and Quark Server Plugin API will appear on corresponding GitHub repositories soon.
-
-<hr>
-
-<h2 id="license">License</h2>
-<br>
-
-All the Quark programs are licensed under MIT. Use can find the license document inside each GitHub repository of Quark program.
+## License
+All Quark components is licenced under MIT. 
